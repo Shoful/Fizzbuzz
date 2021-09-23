@@ -18,9 +18,6 @@ console.log(result)
 
 //PART 2
 
-
-
-
 let max = 100;
 for (let i = 1; i <= max; i++){
   if (i % 3 == 0 && i % 5 == 0) {
